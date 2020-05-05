@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" tools:ignore="StateListReachable">
+
+    <item android:state_pressed="true" android:src="@android:drawable/ic_media_pause" />
+
+    <item android:drawable="@android:drawable/ic_media_play" />
+</selector>
